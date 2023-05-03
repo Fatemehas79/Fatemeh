@@ -1,1 +1,1 @@
-print(hello Fatemeh Asghari)
+print(Fatemeh Asghari)
